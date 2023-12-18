@@ -1,7 +1,7 @@
 function Home() {
     return (
-        <>
-            <h1>Neoqeav</h1>
+        <>  
+            <h1>AAA</h1>
         </>
     )
 }
